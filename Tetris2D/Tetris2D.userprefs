@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Sources/Game/Group.cs">
+    <Files>
+      <File FileName="../Road of the Asura for Win/Assets/Resources/Sources/Game/PlayerControl.cs" Line="1" Column="1" />
+      <File FileName="../Road of the Asura for Win/Assets/Resources/Sources/Game/Record.cs" Line="1" Column="1" />
+      <File FileName="../Road of the Asura for Win/Assets/Resources/Sources/Ranking/BackButton.cs" Line="1" Column="1" />
+      <File FileName="../Road of the Asura for Win/Assets/Resources/Sources/Ranking/RankingDisp.cs" Line="1" Column="1" />
+      <File FileName="../Road of the Asura for Win/Assets/Resources/Sources/Ranking/ReadRank.cs" Line="1" Column="1" />
+      <File FileName="../Road of the Asura for Win/Assets/Resources/Sources/Ranking/SortRank.cs" Line="1" Column="1" />
+      <File FileName="../Road of the Asura for Win/Assets/Resources/Sources/Ranking/WriteRanking.cs" Line="1" Column="1" />
+      <File FileName="Assets/Sources/Game/Main.cs" Line="1" Column="1" />
+      <File FileName="Assets/Sources/Game/Group.cs" Line="48" Column="23" />
+      <File FileName="Assets/Sources/Game/Grid.cs" Line="1" Column="1" />
+      <File FileName="Assets/Sources/Game/Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Sources/Title/PlayButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Sources/Game/Score.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
