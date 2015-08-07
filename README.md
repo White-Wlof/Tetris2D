@@ -1,2 +1,2 @@
 # Tetris2
- - <Past property>
+ - Past property
